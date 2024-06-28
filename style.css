@@ -72,11 +72,10 @@ main {
 }
 
 .option {
-    text-align: center;
-    border: 2px solid #ccc;
-    padding: 20px;
-    border-radius: 10px;
-    width: 45%;
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+    flex-wrap: nowrap;
 }
 
 .option img {
