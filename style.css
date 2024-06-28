@@ -64,7 +64,7 @@ header nav ul li a {
 .options-section .option img {
     width: 100px;
     height: 100px;
-    display: block;
+    display: flex;
     margin: 0 auto 10px;
 }
 
