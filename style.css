@@ -67,15 +67,17 @@ main {
 
 .options {
     display: flex;
-    justify-content: space-around;
-    margin-bottom: 20px;
-}
-
-.option {
-    display: flex;
     margin-bottom: 20px;
     align-items: center;
     flex-wrap: nowrap;
+}
+
+.option {
+    text-align: center;
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    width: 45%;
 }
 
 .option img {
