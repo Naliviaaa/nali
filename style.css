@@ -80,9 +80,10 @@ main {
 }
 
 .option img {
-    width: 100px;
-    height: 100px;
-    margin-bottom: 10px;
+    width: auto;
+    height: 150px;
+    margin-bottom: 0px;
+}
 }
 
 .job-categories {
